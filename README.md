@@ -8,7 +8,8 @@
 
 
 - 🌱 I’m currently learning **ASP.NET, Android Development, Computer Vision**
-
+- 👯 I’m looking to collaborate on **Web Development**
+- 💬 Ask me about **anything**
 - 📫 How to reach me **mahnooralei@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -25,4 +26,8 @@
 <br/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mahnoor786-dev&show_icons=true&locale=en&theme=dark" width="50%" alt="mahnoor786-dev" /></p>
 
-<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor786-dev&"  width="40%" alt="mahnoor786-dev" /></div>
+<br/>
+<br/>
+<br/>
+<br/>
+<div><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor786-dev&"  width="40%" alt="mahnoor786-dev" /></div>
