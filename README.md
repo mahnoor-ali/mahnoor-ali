@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnoor786-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mahnoor786-dev" /> </p>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="430" height="300" />
 
 
 - 🌱 I’m currently learning **ASP.NET, Android Development, Computer Vision**
@@ -26,8 +25,8 @@
 <br/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mahnoor786-dev&show_icons=true&locale=en&theme=dark" width="50%" alt="mahnoor786-dev" /></p>
 
+<!-- <br/>
 <br/>
 <br/>
 <br/>
-<br/>
-<div><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor786-dev&"  width="40%" alt="mahnoor786-dev" /></div>
+<div><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor786-dev&"  width="40%" alt="mahnoor786-dev" /></div> -->
