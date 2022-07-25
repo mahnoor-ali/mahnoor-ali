@@ -24,5 +24,5 @@
 
 <br/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mahnoor786-dev&show_icons=true&locale=en" width="50%" alt="mahnoor786-dev" /></p>
-<br/>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor786-dev&"  width="40%" alt="mahnoor786-dev" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor786-dev&"  width="40%" alt="mahnoor786-dev" /></p>
