@@ -6,9 +6,13 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="390" height="250" />
 
  <h3>🚀 About Me </h3>
+ 
 - 🌱 I’m currently learning **ASP.NET, Android Development, Computer Vision**
+
 - 👯 I’m looking to collaborate on **Web Development**
+
 - 💬 Ask me about **anything**
+
 - 📫 How to reach me **mahnooralei@gmail.com**
 
 <h3 align="left">🔗 Connect with me:</h3>
