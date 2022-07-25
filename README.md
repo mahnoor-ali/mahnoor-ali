@@ -23,6 +23,6 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mahnoor786-dev&show_icons=true&locale=en" width="50%" alt="mahnoor786-dev" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mahnoor786-dev&show_icons=true&locale=en&theme=dark" width="50%" alt="mahnoor786-dev" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor786-dev&"  width="40%" alt="mahnoor786-dev" /></p>
+<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor786-dev&"  width="40%" alt="mahnoor786-dev" /></div>
