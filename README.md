@@ -7,7 +7,7 @@
 
  <h3>🚀 About Me </h3>
  
-- 🌱 I’m currently learning **ASP.NET MVC, Android Development, Computer Vision, REACT Js**
+- 🌱 I’m currently learning **web development**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
