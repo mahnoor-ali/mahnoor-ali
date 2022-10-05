@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahnoor Ali</h1>
-<h3 align="center">I am in my 6th semester of BS Software Engineering (PUCIT)</h3>
+<h3 align="center">I am Final Year student of BS Software Engineering (PUCIT)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnoor786-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mahnoor786-dev" /> </p>
 
