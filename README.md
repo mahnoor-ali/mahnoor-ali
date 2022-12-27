@@ -7,7 +7,7 @@
 
  <h3>🚀 About Me </h3>
  
-- 🌱 I’m currently learning **web development**
+- 🌱 I have been into web development since 1 year(.Net) and currently learning MERN stack
 
 - 💬 Ask me about **anything**
 
