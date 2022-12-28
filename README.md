@@ -31,4 +31,4 @@
 <!--
 <div><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor786-dev&"  width="40%" alt="mahnoor786-dev" /></div> -->
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor-ali&theme=dark" width="47%" alt="mahnoor786-dev" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mahnoor-ali&theme=dark" width="47%" alt="mahnoor-ali" />
