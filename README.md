@@ -7,7 +7,11 @@
 
  <h3>🚀 About Me </h3>
  
-- 🌱 I have been into web development since 1 year(.Net) and currently learning MERN stack
+- 🌱 I have been into web development. (1 year experience working on .NET) and currently learning MERN stack.
+
+- I am open to any Web Development collaborations
+
+- Currently working on Competitive programming in C++. Checkout out my leetcode repository.
 
 - 💬 Ask me about **anything**
 
