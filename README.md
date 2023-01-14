@@ -7,15 +7,15 @@
 
  <h3>🚀 About Me </h3>
  
-- 🌱 I have been into web development. (1 year experience working on .NET) and currently learning MERN stack.
+🌱 I have been into web development. (1 year experience working on .NET) and currently learning MERN stack.
 
-- I am open to any Web Development collaborations
+🌱 I know Android app development(Java/Kotlin), Machine Learning and Computer Vision. But currently I am interested in full stack web development.
 
-- Currently working on Competitive programming in C++. Checkout out my leetcode repository.
+🌱 I am open to any Web Development collaborations
 
-- 💬 Ask me about **anything**
+🌱 Currently working on Competitive programming in C++. Checkout out my leetcode repository.
 
-- 📫 How to reach me **mahnooralei@gmail.com**
+📫 How to reach me **mahnooralei@gmail.com**
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
