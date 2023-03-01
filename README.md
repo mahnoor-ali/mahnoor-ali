@@ -7,7 +7,7 @@
 
  <h3>🚀 About Me </h3>
  
-🌱 I have been into web development. (1 year experience working on .NET) and currently learning MERN stack.
+🌱 I have been into web development. (experienced in working with .NET) and currently learning MERN stack.
 
 🌱 I know Android app development(Java/Kotlin), Machine Learning and Computer Vision. But currently I am interested in full stack web development.
 
