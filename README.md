@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mahnoor Ali</h1>
+<!--
 <h3 align="center">I am Final Year student of BS Software Engineering (PUCIT)</h3>
-
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnoor786-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mahnoor786-dev" /> </p>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="220" />
 
  <h3>🚀 About Me </h3>
  
-🌱 I have been into web development. (experienced in working with .NET) and currently learning MERN stack.
-
-🌱 I know Android app development(Java/Kotlin), Machine Learning and Computer Vision. But currently I am interested in full stack web development.
+🌱 I am experienced in developing full stack website using MERN Stack and .NET
 
 🌱 I am open to any Web Development collaborations
-
-🌱 Currently working on Competitive programming in C++. Checkout out my leetcode repository.
 
 📫 How to reach me **mahnooralei@gmail.com**
 
