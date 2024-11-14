@@ -6,12 +6,16 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="220" />
 
- <h3>🚀 About Me </h3>
- 
-🌱 I am experienced in developing full stack website using MERN Stack and .NET
+ <h3>🚀 About Me </h3> <br>
+<b>🌱 Full-Stack Developer with 1+ Year of Experience</b><br>
+Hello! I'm a <b>software engineer</b> with over a year of experience in building robust full-stack applications using <b>.NET</b>, <b>Angular</b>, and <b>ReactJS</b>. Passionate about crafting efficient, scalable, and user-friendly applications, I strive to continuously improve my skills and stay updated on the latest technologies in the field.<br><br>
 
-🌱 I am open to any Web Development collaborations
+<b>🌱 Open to Collaborations</b><br>
+I'm always excited to connect with like-minded developers and am open to <b>collaborations on web development</b> projects and <b>open-source contributions</b>. Let's work together to build something impactful!<br><br>
 
+<b>🌱 Lifelong Learner</b><br>
+I believe in <b>learning every day</b> to become a better software engineer. Constantly exploring new tools and best practices to elevate my development skills.
+<br><br>
 📫 How to reach me **mahnooralei@gmail.com**
 
 <h3 align="left">🔗 Connect with me:</h3>
